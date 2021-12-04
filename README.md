@@ -2,6 +2,7 @@
 Criando Primeiro Repositório no Git e Github 
 
 
-Segue abaixo um pequeno tutorial da LETICIA SANTOS:
+Segue abaixo um pequeno tutorial da Leticia Santos:
 
 [Dicas Git e Github](https://digitalinnovation.one/artigos/dicas-git-e-github)
+
